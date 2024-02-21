@@ -16,3 +16,7 @@ This repository is contains my work as a research intern at the University of Os
 - `plot_prices.py` : Display prices of the assets.
 - `markovianity_test.py` : Implementation of the statistical test of local volatility hypothesis.
 - `[asset_name]Data.csv` : Pre-processed HFFD.
+
+## Acknowledgements
+
+I would like to ackowledge Giulia di Nunno, who have been my professor as an Exchange student in the Univeristy of Oslo, then my academic reference during this research internship. I also thank Anton Yurchenko-Tytarenko, post-doc at this time, who helped me a lot to solve problems and implement solutions.
